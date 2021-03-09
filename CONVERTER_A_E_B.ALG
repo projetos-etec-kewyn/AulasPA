@@ -12,8 +12,8 @@ Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
 a<-15
 b<-30
-escreval("o valor de a é")
-escreval(" o valor de b é")
+escreval("o valor de a é",a)
+escreval(" o valor de b é",b)
 c<-a
 a<-b
 b<-c
